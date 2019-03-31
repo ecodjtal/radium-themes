@@ -12,5 +12,4 @@ Screenshots
 ===========
 
 darkrainbow
------------
 ![](darkrainbow.png)
