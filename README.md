@@ -1,7 +1,7 @@
 Description
 ============
 
-Just a repo for my radium themes
+Just a repo for my [radium](http://users.notam02.no/~kjetism/radium/) themes
 
 Usage
 =====
