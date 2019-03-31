@@ -11,5 +11,4 @@ Just replace your .radium/colors file with the one you want to use
 Screenshots
 ===========
 
-darkrainbow
 ![](darkrainbow.png)
